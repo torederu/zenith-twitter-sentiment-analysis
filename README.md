@@ -28,5 +28,5 @@ The data used in this study were sourced by CrowdFlower and are available on [Da
 ├── figs                   
 ├── .gitignore
 ├── README.md 
-├── gameplay-classification.ipynb
-└── brainboost-gameplay-classification.pdf
+├── zenith-twitter-sentiment-analysisipynb
+└── zenith-twitter-sentiment-analysis.pdf
