@@ -48,5 +48,5 @@ The tuned Complement Naive Bayes classifier performs exceptionally well, with tr
 ├── figs                   
 ├── .gitignore
 ├── README.md 
-├── zenith-twitter-sentiment-analysisipynb
-└── zenith-twitter-sentiment-analysis.pdf
+├── zenith-twitter-sentiment-analysis.ipynb
+└── zenith-twitter-sentiment-presentation.pdf
